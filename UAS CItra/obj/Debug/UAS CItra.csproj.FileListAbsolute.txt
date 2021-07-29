@@ -1,0 +1,23 @@
+C:\Users\Asus\source\repos\UAS CItra\UAS CItra\bin\Debug\UAS CItra.exe.config
+C:\Users\Asus\source\repos\UAS CItra\UAS CItra\bin\Debug\UAS CItra.exe
+C:\Users\Asus\source\repos\UAS CItra\UAS CItra\bin\Debug\UAS CItra.pdb
+C:\Users\Asus\source\repos\UAS CItra\UAS CItra\bin\Debug\AForge.Controls.dll
+C:\Users\Asus\source\repos\UAS CItra\UAS CItra\bin\Debug\AForge.dll
+C:\Users\Asus\source\repos\UAS CItra\UAS CItra\bin\Debug\AForge.Imaging.dll
+C:\Users\Asus\source\repos\UAS CItra\UAS CItra\bin\Debug\AForge.Math.dll
+C:\Users\Asus\source\repos\UAS CItra\UAS CItra\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Asus\source\repos\UAS CItra\UAS CItra\bin\Debug\AForge.Video.dll
+C:\Users\Asus\source\repos\UAS CItra\UAS CItra\bin\Debug\AForge.xml
+C:\Users\Asus\source\repos\UAS CItra\UAS CItra\bin\Debug\AForge.Controls.xml
+C:\Users\Asus\source\repos\UAS CItra\UAS CItra\bin\Debug\AForge.Imaging.xml
+C:\Users\Asus\source\repos\UAS CItra\UAS CItra\bin\Debug\AForge.Math.xml
+C:\Users\Asus\source\repos\UAS CItra\UAS CItra\bin\Debug\AForge.Video.xml
+C:\Users\Asus\source\repos\UAS CItra\UAS CItra\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Asus\source\repos\UAS CItra\UAS CItra\obj\Debug\UAS CItra.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\UAS CItra\UAS CItra\obj\Debug\UAS_CItra.Form1.resources
+C:\Users\Asus\source\repos\UAS CItra\UAS CItra\obj\Debug\UAS_CItra.Properties.Resources.resources
+C:\Users\Asus\source\repos\UAS CItra\UAS CItra\obj\Debug\UAS CItra.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\UAS CItra\UAS CItra\obj\Debug\UAS CItra.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\UAS CItra\UAS CItra\obj\Debug\UAS CItra.csproj.CopyComplete
+C:\Users\Asus\source\repos\UAS CItra\UAS CItra\obj\Debug\UAS CItra.exe
+C:\Users\Asus\source\repos\UAS CItra\UAS CItra\obj\Debug\UAS CItra.pdb
