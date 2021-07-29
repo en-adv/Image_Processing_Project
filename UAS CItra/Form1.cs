@@ -47,6 +47,7 @@ namespace UAS_CItra
             // picture box border
             pictureBox1.BorderStyle = BorderStyle.FixedSingle;
             pictureBox2.BorderStyle = BorderStyle.FixedSingle;
+            pictureBox3.BorderStyle = BorderStyle.FixedSingle;
         }
 
         private void trackBarEnable(bool isEnable = true)
